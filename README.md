@@ -67,7 +67,7 @@ LinkedIn: João Victor Nascimento Adão
 Confira meus projetos e habilidades nos links abaixo:
 
 🔗 **Versão hospedada no Vercel**  
-[portfolio-alura-3kcf.vercel.app](https://portfolio-alura-3kcf.vercel.app/)
+[portfolio-alura-3kcf.vercel.app](https://alura-plus-roan-tau.vercel.app/)
 
 🔗 **Versão hospedada no GitHub Pages**  
 [yjoaovictor10.github.io/alura-plus](https://yjoaovictor10.github.io/alura-plus/)
