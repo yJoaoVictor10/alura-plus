@@ -41,11 +41,17 @@ projeto2-alura-plus/
 
 ## 📱 Responsividade
 
-O site foi construído com design responsivo e adapta-se bem a diferentes tamanhos de tela, incluindo:
+> ⚠️ **Atenção!** Este site ainda **não é responsivo**, ou seja, **não se adapta corretamente a diferentes tamanhos de tela** como celulares e tablets.
 
-- Celulares
-- Tablets
-- Desktops
+🎯 **Nosso objetivo** é proporcionar uma experiência acessível e agradável em **qualquer dispositivo**, e a responsividade está entre as próximas melhorias do projeto!
+
+💡 Em breve, o layout será ajustado para funcionar perfeitamente em:
+- 📱 **Celulares**
+- 📲 **Tablets**
+- 💻 **Computadores**
+
+🔧 Estamos trabalhando nisso — **aguarde por novidades incríveis!**
+
 
 ## 🧪 Como executar o projeto
 
