@@ -61,7 +61,7 @@ projeto2-alura-plus/
 git clone https://github.com/seu-usuario/projeto2-alura-plus.git
 ```
 ## ✍️ Autor
-Este projeto foi desenvolvido por [João Victor].
+Este projeto foi desenvolvido por João Victor.
 Entre em contato:
 
 GitHub: yJoaoVictor10
